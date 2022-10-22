@@ -16,10 +16,9 @@ hdmi cable, which you can buy on amazon.
 <a href='https://mrpi314.com/raspberry-pi-case-CAD/bottom%202.stl'><button>bottom 2</button></a>
 <a href='https://mrpi314.com/raspberry-pi-case-CAD/top%201.stl'><button>top 1</button></a>
 <a href='https://mrpi314.com/raspberry-pi-case-CAD/top%202.stl'><button>top 2</button></a>
-<a href='https://mrpi314.com/raspberry-pi-case-CAD/bottom%201.stl'><button>bottom 1</button></a>
 <a href='https://mrpi314.com/raspberry-pi-case-CAD/speaker%20case%202.stl'><button>speaker case 2</button></a>
-<a href='https://mrpi314.com/raspberry-pi-case-CAD/speaker%20case.stl'><button>bottom 1</button></a>
-<a href='https://mrpi314.com/raspberry-pi-case-CAD/hinge.stl'><button>bottom 1</button></a>
+<a href='https://mrpi314.com/raspberry-pi-case-CAD/speaker%20case.stl'><button>speaker case</button></a>
+<a href='https://mrpi314.com/raspberry-pi-case-CAD/hinge.stl'><button>hinge</button></a>
 <h2>Directions</h2>
 1. Print bottom 1 and bottom 2 and glue them together
 <br>
