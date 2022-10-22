@@ -31,3 +31,6 @@ hdmi cable, which you can buy on amazon.
 5. Print two sets of hinges and glue them to the back of the case so that it opens and closes.
 <br>
 6. To see the final product, look at "complete case"
+
+<h1>Complete Case</h1>
+<img src="https://raw.githubusercontent.com/Mrpi314tech/raspberry-pi-case-CAD/main/complete_case.png">
