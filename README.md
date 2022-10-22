@@ -33,4 +33,5 @@ hdmi cable, which you can buy on amazon.
 6. To see the final product, look at "complete case"
 
 <h1>Complete Case</h1>
+<a href='https://github.com/Mrpi314tech/raspberry-pi-case-CAD/blob/main/Complete%20case%20.stl'><button>Case</button></a>
 <img src="https://raw.githubusercontent.com/Mrpi314tech/raspberry-pi-case-CAD/main/complete_case.png">
