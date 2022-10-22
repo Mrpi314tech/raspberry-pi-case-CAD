@@ -1,5 +1,5 @@
 <body style="background-color:darkred;">
-<h1>UC11hardware</h1>
+<h1>Raspberry pi case instructions</h1>
 These are the CAD files for a 3d-printable 
 <br>
 raspberry pi 4 case. This case has room 
